@@ -1,6 +1,12 @@
 
+<h1> Health Care Website Project </h1>
 
-# School
+HTML and CSS features were used in the website project, which includes the monthly work-salary schedule and contact form.
 
-# The-First-Udemig-Project
-# School
+<h2> Video Screen </h2>
+
+![](udemig.gif)
+
+
+
+
